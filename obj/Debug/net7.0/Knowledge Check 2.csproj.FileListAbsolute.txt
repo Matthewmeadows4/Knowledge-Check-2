@@ -1,0 +1,15 @@
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/bin/Debug/net7.0/Knowledge Check 2
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/bin/Debug/net7.0/Knowledge Check 2.deps.json
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/bin/Debug/net7.0/Knowledge Check 2.runtimeconfig.json
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/bin/Debug/net7.0/Knowledge Check 2.dll
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/bin/Debug/net7.0/Knowledge Check 2.pdb
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/Knowledge Check 2.csproj.AssemblyReference.cache
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/Knowledge Check 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/Knowledge Check 2.AssemblyInfoInputs.cache
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/Knowledge Check 2.AssemblyInfo.cs
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/Knowledge Check 2.csproj.CoreCompileInputs.cache
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/Knowledge Check 2.dll
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/refint/Knowledge Check 2.dll
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/Knowledge Check 2.pdb
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/Knowledge Check 2.genruntimeconfig.cache
+/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-2/obj/Debug/net7.0/ref/Knowledge Check 2.dll

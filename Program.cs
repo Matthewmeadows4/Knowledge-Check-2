@@ -19,7 +19,7 @@ class Program
             // In this loop, populate the object's properties using Console.ReadLine()
             var myBook= new Book();
 
-            Console.WriteLine("Enter the value for ");
+            Console.WriteLine("How many pages does your book have?");
             myBook.pageNumber = Convert.ToInt32(Console.ReadLine());
 
 
